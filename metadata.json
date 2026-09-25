@@ -1,0 +1,6 @@
+{
+  "name": "Athletik - Suivi Sportif Personnalisable",
+  "description": "Plateforme web professionnelle de suivi sportif, de charge et de bien-être avec indicateurs sur mesure pour entraîneurs et sportifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
